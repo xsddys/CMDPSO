@@ -1,6 +1,6 @@
 # 🌐 CMDPSO
 
-[ICACI2025] Official code for **"Coevolutionary Multi-objective Discrete Particle Swarm Optimization for Gateway Placement Optimization Problem"**
+[ICACI2025] Official code for paper **"Coevolutionary Multi-objective Discrete Particle Swarm Optimization for Gateway Placement Optimization Problem"**
 
 ## 📋 Project Overview
 This repository implements algorithms for solving the Gateway Placement Optimization (GPO) problem. It features a unified discrete PSO framework that supports different velocity update mechanisms to solve binary decision problems.
